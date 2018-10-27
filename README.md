@@ -1,5 +1,5 @@
 # Wine_Classification_DecisionTree
-The goal of this project is to explore a decision tree to classify the type of wine (red or white).
+The goal of this project is to explore a decision tree to classify the type of wine (red or white).This is a kaggle project from: https://www.kaggle.com/c/wine-quality-decision-tree/leaderboard
 
 ## Background
 Decision tree is an supervised machine algorithm which can devide the dataset into sub-dataset according to data's feature. Compare to dataset, sub-dataset has higher homogeneous (label we need to classify).Decision Tree algorithms are referred to as CART or Classification and Regression Trees.In this project, we only use Decision tree for Classification. 
