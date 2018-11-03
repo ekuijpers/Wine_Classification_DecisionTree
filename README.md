@@ -16,7 +16,7 @@ Available at: https://www.sciencedirect.com/science/article/pii/S016792360900137
 ## Package
 In this project, we used package of Numpy, Pandas, Scikit-learn. 
 
-## Project Steps: 
+## Pseudo code: 
 1. Preprocess data.     
 (a)Add lable to dataset: The dataset including two files (winequality-red.csv and winequality-white.csv) which has 12 features but dont have label we need to classify(red and white). Hence, We need to create a label array        
 (b)Split dataset into train dataset and test dataset. the split rate set to 7/3
