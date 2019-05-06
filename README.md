@@ -15,8 +15,17 @@ Available at: https://www.sciencedirect.com/science/article/pii/S016792360900137
 
 The data including 11 features of wine that might related to wine type: 
 
-1. Fixed acidity 2. Volatile acidity 3. Citric acid 4. Residual sugar 5. Chlorides 6. Free sulfur dioxide 7. Total sulfur dioxide       
-8. Density 9. pH 10. Sulphates 11. Alcohol
+1. Fixed acidity   
+2. Volatile acidity    
+3. Citric acid    
+4. Residual sugar   
+5. Chlorides    
+6. Free sulfur dioxide   
+7. Total sulfur dioxide         
+8. Density    
+9. pH   
+10. Sulphates    
+11. Alcohol   
 
 ## Result 
 Decision tree are able to achieve testing accuracy of 98.21%
